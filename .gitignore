@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Data and generated outputs (not tracked)
+*.csv
+*.xlsx
+*.xls
+*.png
+*.jpg
+*.pdf
