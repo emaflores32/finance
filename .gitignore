@@ -6,6 +6,7 @@ __pycache__/
 *.csv
 *.xlsx
 *.xls
+!ON_cashflows.xlsx
 *.png
 *.jpg
 *.pdf
